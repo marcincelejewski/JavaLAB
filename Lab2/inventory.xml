@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.8.0_161" class="java.beans.XMLDecoder">
+ <object class="java.util.ArrayList">
+  <void method="add">
+   <object class="Item">
+    <void property="imagePath">
+     <string>C:\Users\Marcin\eclipse-workspace\Inventory\photo\maka.jpg</string>
+    </void>
+    <void property="name">
+     <string>Mąka</string>
+    </void>
+    <void property="quantity">
+     <float>6.0</float>
+    </void>
+    <void property="unit">
+     <string>kilogram</string>
+    </void>
+    <void property="unitPrice">
+     <float>2.99</float>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="Item">
+    <void property="imagePath">
+     <string>C:\Users\Marcin\eclipse-workspace\Inventory\photo\jajka.jpg</string>
+    </void>
+    <void property="name">
+     <string>Jajka</string>
+    </void>
+    <void property="quantity">
+     <float>10.0</float>
+    </void>
+    <void property="unit">
+     <string>sztuka</string>
+    </void>
+    <void property="unitPrice">
+     <float>0.49</float>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="Item">
+    <void property="imagePath">
+     <string>C:\Users\Marcin\eclipse-workspace\Inventory\photo\papryka.jpg</string>
+    </void>
+    <void property="name">
+     <string>Papryka</string>
+    </void>
+    <void property="quantity">
+     <float>5.0</float>
+    </void>
+    <void property="unit">
+     <string>sztuka</string>
+    </void>
+    <void property="unitPrice">
+     <float>4.12</float>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="Item">
+    <void property="imagePath">
+     <string>C:\Users\Marcin\eclipse-workspace\Inventory\photo\woda.jpg</string>
+    </void>
+    <void property="name">
+     <string>Woda</string>
+    </void>
+    <void property="quantity">
+     <float>2.0</float>
+    </void>
+    <void property="unit">
+     <string>litr</string>
+    </void>
+    <void property="unitPrice">
+     <float>2.99</float>
+    </void>
+   </object>
+  </void>
+ </object>
+</java>
